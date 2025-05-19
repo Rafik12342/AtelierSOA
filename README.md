@@ -1,4 +1,4 @@
-# Exercice : Exposition des Web Services avec JAX-RS
+# Exercice : Exposition des Web Services avec JAX-RS Esprit Rafik
 
 ## Objectif
 L'objectif de cet exercice est de développer une API REST en utilisant **JAX-RS** pour exposer les services web associés aux entités **Logement** et **Rendez-vous**. Ensuite, vous allez implémenter une documentation API avec **Swagger**.
